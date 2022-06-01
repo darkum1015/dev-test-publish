@@ -1,0 +1,1 @@
+This package is only a public entry for a private registry.

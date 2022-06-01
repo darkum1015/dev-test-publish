@@ -1,0 +1,19 @@
+{
+  "name": "@sempraappmod/dev-test-publish",
+  "version": "1.0.0",
+  "description": "This package is only a public entry for a private registry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkum1015/dev-test-publish.git"
+  },
+  "author": "Sempra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkum1015/dev-test-publish/issues"
+  },
+  "homepage": "https://github.com/darkum1015/dev-test-publish#readme"
+}
